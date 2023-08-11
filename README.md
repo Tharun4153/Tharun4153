@@ -4,11 +4,11 @@ Hello there! I'm B Tharun Tej, a dedicated and enthusiastic software developer w
 
 **Skills and Expertise**
 
-🌩️ Cloud Technologies: Proficient in Amazon Web Services (AWS)
-🖥️ Operating Systems: Experienced in Linux (Red Hat 6/7) and Windows
-🛠️ Configuration Management: Skilled with Ubuntu
-📜 Version Control: Proficient with Git and GitHub
-🔧 Tools: Experienced with Jenkins, Docker, Tomcat, and Terraform
+- 🌩️ Cloud Technologies: Proficient in Amazon Web Services (AWS)
+- 🖥️ Operating Systems: Experienced in Linux (Red Hat 6/7) and Windows
+- 🛠️ Configuration Management: Skilled with Ubuntu
+- 📜 Version Control: Proficient with Git and GitHub
+- 🔧 Tools: Experienced with Jenkins, Docker, Tomcat, and Terraform
 
 **Projects**
 
