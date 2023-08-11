@@ -16,6 +16,8 @@ Here are a couple of noteworthy projects that I've been involved in:
 
 1. **EC2 Backup Creation using Backup Plan (CloudFormation Service)**
 2. **Building and Deploying a Node.js Application with Docker on Ubuntu**
+3. **Cloud Native Resource Monitoring Python App on K8s!**
+4. **Amazon_Cognito_using-CloudFormation**
 
 **Connect with Me**
 
