@@ -24,7 +24,7 @@ Here are a couple of noteworthy projects that I've been involved in:
 I am always eager to engage in conversations, brainstorm ideas, and explore collaboration opportunities. Feel free to get in touch:
 
 📧 Email: b.tharuntej07@gmail.com
-💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/tharun-tej-b-36b402273/)
+
 
 Let's synergize our thoughts and skills to create something truly remarkable!
 
